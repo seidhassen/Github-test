@@ -1,2 +1,2 @@
 # Github-test
-github tutorial
+github tutorial made easy
